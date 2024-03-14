@@ -21,6 +21,5 @@ int main()
     strcpy(s1.name, "John");
     printf("Student name: %s\n", s1.name);
     printf("Student name: %s\n", s1.name);
-    printf("Student name: %s\n", s1.name);
     return 0;
 }
